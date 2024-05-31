@@ -1,0 +1,48 @@
+C:\Users\enriq\source\repos\BlazorPeliculas\BlazorPeliculas\Shared\bin\Debug\net7.0\BlazorPeliculas.Shared.deps.json
+C:\Users\enriq\source\repos\BlazorPeliculas\BlazorPeliculas\Shared\bin\Debug\net7.0\BlazorPeliculas.Shared.dll
+C:\Users\enriq\source\repos\BlazorPeliculas\BlazorPeliculas\Shared\bin\Debug\net7.0\BlazorPeliculas.Shared.pdb
+C:\Users\enriq\source\repos\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.csproj.AssemblyReference.cache
+C:\Users\enriq\source\repos\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enriq\source\repos\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.AssemblyInfoInputs.cache
+C:\Users\enriq\source\repos\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.AssemblyInfo.cs
+C:\Users\enriq\source\repos\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.csproj.CoreCompileInputs.cache
+C:\Users\enriq\source\repos\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.dll
+C:\Users\enriq\source\repos\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\refint\BlazorPeliculas.Shared.dll
+C:\Users\enriq\source\repos\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.pdb
+C:\Users\enriq\source\repos\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\ref\BlazorPeliculas.Shared.dll
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas - 4 Ruteo\BlazorPeliculas\Shared\bin\Debug\net7.0\BlazorPeliculas.Shared.deps.json
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas - 4 Ruteo\BlazorPeliculas\Shared\bin\Debug\net7.0\BlazorPeliculas.Shared.dll
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas - 4 Ruteo\BlazorPeliculas\Shared\bin\Debug\net7.0\BlazorPeliculas.Shared.pdb
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas - 4 Ruteo\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.csproj.AssemblyReference.cache
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas - 4 Ruteo\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas - 4 Ruteo\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.AssemblyInfoInputs.cache
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas - 4 Ruteo\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.AssemblyInfo.cs
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas - 4 Ruteo\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.csproj.CoreCompileInputs.cache
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas - 4 Ruteo\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.dll
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas - 4 Ruteo\BlazorPeliculas\Shared\obj\Debug\net7.0\refint\BlazorPeliculas.Shared.dll
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas - 4 Ruteo\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.pdb
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas - 4 Ruteo\BlazorPeliculas\Shared\obj\Debug\net7.0\ref\BlazorPeliculas.Shared.dll
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas\BlazorPeliculas\Shared\bin\Debug\net7.0\BlazorPeliculas.Shared.deps.json
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas\BlazorPeliculas\Shared\bin\Debug\net7.0\BlazorPeliculas.Shared.dll
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas\BlazorPeliculas\Shared\bin\Debug\net7.0\BlazorPeliculas.Shared.pdb
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.csproj.AssemblyReference.cache
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.AssemblyInfoInputs.cache
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.AssemblyInfo.cs
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.csproj.CoreCompileInputs.cache
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.dll
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\refint\BlazorPeliculas.Shared.dll
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.pdb
+C:\Cursos\Felipe_Gavilan\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\ref\BlazorPeliculas.Shared.dll
+C:\Cursos\Felipe_Gavilan\BlazorPeliculasPWA\BlazorPeliculas\Shared\bin\Debug\net7.0\BlazorPeliculas.Shared.deps.json
+C:\Cursos\Felipe_Gavilan\BlazorPeliculasPWA\BlazorPeliculas\Shared\bin\Debug\net7.0\BlazorPeliculas.Shared.dll
+C:\Cursos\Felipe_Gavilan\BlazorPeliculasPWA\BlazorPeliculas\Shared\bin\Debug\net7.0\BlazorPeliculas.Shared.pdb
+C:\Cursos\Felipe_Gavilan\BlazorPeliculasPWA\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.csproj.AssemblyReference.cache
+C:\Cursos\Felipe_Gavilan\BlazorPeliculasPWA\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Felipe_Gavilan\BlazorPeliculasPWA\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.AssemblyInfoInputs.cache
+C:\Cursos\Felipe_Gavilan\BlazorPeliculasPWA\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.AssemblyInfo.cs
+C:\Cursos\Felipe_Gavilan\BlazorPeliculasPWA\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.csproj.CoreCompileInputs.cache
+C:\Cursos\Felipe_Gavilan\BlazorPeliculasPWA\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.dll
+C:\Cursos\Felipe_Gavilan\BlazorPeliculasPWA\BlazorPeliculas\Shared\obj\Debug\net7.0\refint\BlazorPeliculas.Shared.dll
+C:\Cursos\Felipe_Gavilan\BlazorPeliculasPWA\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.pdb
+C:\Cursos\Felipe_Gavilan\BlazorPeliculasPWA\BlazorPeliculas\Shared\obj\Debug\net7.0\ref\BlazorPeliculas.Shared.dll

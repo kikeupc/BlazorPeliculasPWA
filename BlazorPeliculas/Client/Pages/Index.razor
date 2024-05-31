@@ -1,0 +1,60 @@
+﻿@page "/"
+@inject IRepositorio repositorio
+
+<PageTitle>Blazor Películas</PageTitle>
+
+<AuthorizeView Roles="admin">
+    <Authorized>
+        <p>Estás autorizado, @context.User.Identity?.Name</p>
+    </Authorized>   
+    <NotAuthorized>
+        <p>No estás autorizado para ver esto</p>
+    </NotAuthorized>
+</AuthorizeView>
+
+<div>
+    <h3>En Cartelera</h3>
+    <ListadoPelicula Peliculas="EnCartelera" />
+</div>
+
+<div>
+    <h3>Próximos Estrenos</h3>
+    <ListadoPelicula Peliculas="FuturosEstrenos" />
+</div>
+
+
+
+@*<div>
+    <h2>Crear nueva película</h2>
+
+    <EjemploTextbox placeholder="placeholder index" />
+</div>*@
+
+
+
+
+@code{
+    private Dictionary<string, object> EjemploTextboxParametros = new Dictionary<string, object>()
+    {
+        { "placeholder", "nuevo placeholder 2"},
+        { "disabled", "true"}
+    };    
+
+    public List<Pelicula>? FuturosEstrenos { get; set; }
+    public List<Pelicula>? EnCartelera { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        var respuestaHTTP = await repositorio.Get<HomePageDTO>("api/peliculas");
+
+        if (respuestaHTTP.HttpResponseMessage.IsSuccessStatusCode)
+        {
+            FuturosEstrenos = respuestaHTTP.Response!.ProximosEstrenos;
+            EnCartelera = respuestaHTTP.Response!.PeliculasEnCartelera;
+        }
+        else
+        {
+            Console.WriteLine(respuestaHTTP.HttpResponseMessage.StatusCode);
+        }
+    }
+}

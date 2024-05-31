@@ -1,0 +1,61 @@
+﻿
+
+@typeparam Titem
+
+
+@if (Listado is null)
+{
+    @if (Cargando is null)
+    {
+        <img alt="Cargando"
+             src="https://pa1.aminoapps.com/6707/510b0daee67fbc091f14b9d8ef40aeb6c0d4dc7d_00.gif" />
+    }
+    else
+    {
+        @Cargando
+    }
+}
+else if (Listado.Count == 0)
+{
+    @if (NoHayRegistros is null)
+    {
+        <p>No hay películas para mostrar</p>
+    }
+    else
+    {
+        @NoHayRegistros
+    }
+}
+else
+{
+    if (HayRegistros is not null)
+    {
+        @foreach (var elemento in Listado)
+        {
+            @HayRegistros(elemento)
+        }         
+    }
+    else
+    {
+        @HayRegistrosCompleto
+    }
+    
+}
+
+@code {
+    [Parameter]
+    public RenderFragment Cargando { get; set; } = null!;
+
+    [Parameter]
+    public RenderFragment NoHayRegistros { get; set; } = null!;
+
+    [Parameter]
+    public RenderFragment<Titem> HayRegistros { get; set; } = null!;
+
+    [Parameter]
+    public RenderFragment HayRegistrosCompleto { get; set; } = null!;
+
+    [Parameter]
+    [EditorRequired]
+    public List<Titem> Listado { get; set; } = null!;
+}
